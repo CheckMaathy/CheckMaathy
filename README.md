@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Backend API with NodeJs, TypeScript and Prisma 🏳️‍🌈⃤ 
+- 🌱 I’m currently learning TypeScript and Docker 🐳
+- 💬 You can Ask me about life and almost all things related to software development
+
 <!--
 **CheckMaathy/CheckMaathy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
