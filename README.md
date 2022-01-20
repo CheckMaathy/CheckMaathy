@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Backend API with Java☕ (Spring Framework) and Python🐍 (Flask) 
+- 🔭 I’m currently working on Backend API with Java☕ (Spring and Quarkus Frameworks) 
 - 🌱 Learning Docker 🐳 , Microservices implementation and every day a little more about life
-- 💬 You can Ask me about Software Archtecturing and almost all things related to Java and Microservices development
+- 💬 You can Ask me about almost all things related to cars and tech stuff
 
 <!--
 **CheckMaathy/CheckMaathy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
