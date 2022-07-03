@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Backend API with Java☕ (Spring and Quarkus Frameworks) 
-- 🌱 Learning Docker 🐳 , Microservices implementation and every day a little more about life
+- 🔭 I’m currently working on Backend API with Java☕(Spring) and Node with Hexagonal Architecture.
+- 🌱 Learning Docker 🐳 , Microservices implementation and every day a little more about life.
 - 💬 You can Ask me about almost all things related to cars and tech stuff
 
 <!--
