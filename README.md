@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working with Backend and Java☕ development.
-- 🌱 Learning Docker 🐳 , Microservices implementation, mobile development and every day a little more about life.
-- 💬 You can Ask me about almost all things related to cars and tech stuff
+- 🔭 I’m currently working on Backend projects with Java☕ and Kotlin running on top of Spring Boot Framework.
+- 🌱 Learning Android, MVVM Arch and every day a little more about life.
+- 💬 You can Ask me about almost all things related to cars and tech stuff (if I don't know, probably will ask to ChatGPT to help me with your desired answer xD )
 
 <!--
 **CheckMaathy/CheckMaathy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
